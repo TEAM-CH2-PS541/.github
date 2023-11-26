@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the TEAM-CH2-PS541 GitHub organization! We, as a team of students from Bangkit Academy, are enthusiastically developing the Luminsight application as our Capstone project. Luminsight is an innovative solution for the detection of eye diseases, leveraging artificial intelligence and image processing to provide accurate automatic diagnoses through the analysis of eye images. Additionally, the application offers articles on eye health and a user-friendly interface to enhance awareness and understanding of eye health. We invite contributions and feedback from the community to create a positive impact in the field of eye health. Thank you for your support!
